@@ -1,0 +1,23 @@
+{
+  "name": "august",
+  "version": "1.0.0",
+  "description": "August",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ripenautumn/august.git"
+  },
+  "keywords": [],
+  "author": "Ripen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ripenautumn/august/issues"
+  },
+  "homepage": "https://github.com/Ripenautumn/august#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
